@@ -1,5 +1,5 @@
 # LDS-Statistics-1841-to-Present
-This csv contains data from three datasets: the transcribed statistical data tables from cumorah.com's statistical images; the archived Facts and Statistics pages; and a much smaller dataset of just the years that temples went into operation (see the _op_temples_ field). In the spirit of transparency and intellectual freedom, this data may be used for any purpose.
+This csv contains data from three datasets: the transcribed statistical data tables from cumorah.com's statistical images; the archived Facts and Statistics pages; and a much smaller dataset of just the years that temples went into operation (see the _op_temples_ field).  In the spirit of transparency and open data principles, this data may be used for any purpose.
 
 Please read the following to better understand the fields in this csv.
 
